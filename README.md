@@ -26,7 +26,7 @@ The aim of this project is to showcase how SQL can help solve business challenge
 
 ---
 
-## 📊 Power BI Visualization (Coming Soon)  
+## 📊 Power BI Visualization 
 
 The data from this project will also be visualized using **Power BI** to present interactive dashboards, including:  
 - Ride Volume Over Time  
