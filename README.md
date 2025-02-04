@@ -35,6 +35,23 @@ The data from this project will also be visualized using **Power BI** to present
 - Customer and Driver Ratings  
 
 ---
+## 🎯 Key Insights  
+
+### Booking Status:  
+- **62%** of rides were successful.  
+- **Customer cancellations**: 7%  
+- **Driver cancellations**: 18%  
+
+### Ratings Analysis:  
+- **Prime Sedan** had the highest average driver rating: **4.5/5**  
+- Common cancellation reasons for drivers were personal issues and vehicle breakdowns.  
+
+### Weekend Trends:  
+- Higher booking volume and ride distances on weekends and match days.  
+
+### Customer Behavior:  
+- **52%** of customers belong to the **25-50 age group**, making it the dominant demographic.  
+- **69%** of rides were for **business travel**, compared to **31%** for personal travel.  
 
 ## 📂 How to Use This Project  
 
